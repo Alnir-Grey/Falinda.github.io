@@ -58,7 +58,7 @@ a {
     writing-mode: vertical-rl;
     font-size: 64px;
     position: absolute;
-    left: 29.5vw;
+    left: 27.5vw;
     top: 6.2vw;
     font-weight: 300;
 }
@@ -175,7 +175,7 @@ a {
     writing-mode: vertical-rl;
     font-size: 36px;
     position: absolute;
-    left: 68vw!important;
+    left: 70vw!important;
     top: 16vw!important;
 }
 .hero-text .subtitle {
